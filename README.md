@@ -12,6 +12,6 @@
 - 👯 I’m looking to collaborate on anything related to IaC, kubernetes, security and another things about Platform Engineer.
 - 🤔 I’m looking for help with IaC, Kubernetes, Linux and Networks, Python, Databases
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: @:^)
 
