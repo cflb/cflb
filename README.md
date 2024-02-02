@@ -7,7 +7,7 @@
 
 ### Just a review ✨ **cflb/cflb** ✨:
  
-- 🔭 I’m currently working on nash.io (2 years and 5 months)
+- 🔭 I’m currently working on nash.io us a DevOps Engineer (2 years and 5 months)
 - 🌱 I’m currently learning about Platform Engineer
 - 👯 I’m looking to collaborate on anything related to IaC, kubernetes, security and another things about Platform Engineer.
 - 🤔 I’m looking for help with IaC, Kubernetes, Linux and Networks, Python, Databases
