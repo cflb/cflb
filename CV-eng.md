@@ -3,7 +3,7 @@
 
 ### Professional Summary
 
-Systems Analyst from the Federal Rural University of Pernambuco (UFRPE) and specialized in Software Engineering from the International University Center (UNINTER). A native of the Linux environment (Debian, RHEL), I have significant experience in infrastructure, support, networks, containers (docker, cri-o, podman, containerd), orchestration (kubernetes), troubleshooting, and observability (ELK, Prometheus, Grafana, Loki). I use languages like Python and Bash to create solutions in Bare-Metal or Cloud (GCP, AWS) environments that, using Infrastructure as Code (Terraform, Ansible) and pipelines (GitOps), automate severals computational processes (k8s, serverless, hosts).
+Systems Analyst from the Federal Rural University of Pernambuco (UFRPE) and specialized in Software Engineering from the International University Center (UNINTER). A native of the Linux environment (Debian, RHEL), I have significant experience in infrastructure, support, networks, containers (docker, cri-o, podman, containerd), orchestration (kubernetes), troubleshooting, and observability (ELK, Prometheus, Grafana, Loki). I use languages like Python and Bash to create solutions in Bare-Metal or Cloud (GCP, AWS) environments that, using Infrastructure as Code (Terraform, Ansible) and pipelines (GitOps), to automate severals computational processes (k8s, serverless, hosts).
 
 Over the years, I have collaborated with severals companies (private and public, domestic and international) in various segments of computer science, gaining experience in:
 - SysAdmin, Computer Networks, Linux Administration in institutions such as SESI, Ministry of Communications
@@ -88,7 +88,7 @@ Currently, I enjoy solving problems in GNU/Linux, designing, building, and maint
 
 ### Professional Experience
 
-#### Nash.io - City, Netherlands
+#### Nash.io - Netherlands
 **DevOps Engineer** (09/2021 - 02/2024)
 
 - Designed and implemented CI/CD pipelines to accelerate the development cycle and ensure continuous software delivery.
