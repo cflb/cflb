@@ -9,7 +9,7 @@ Ao longo dos anos, colaborei com diversas empresas (privadas e públicas, nacion
 - SysAdmin, Redes de Computadores, Administração Linux em instituições como SESI, Ministério das Comunicações
 - Educador/Professor no ITEP, UFRPE, FIS, IFBaiano
 - Engenheiro de Software na tag.i, 3Ecologias, IFBaiano
-- Engenheiro DevOps em nash.io
+- Engenheiro DevOps em nash.io, nasher.io/Porto Real Tecnologia
 
 Em 2020, a convite do professor Fábio dos Santos Lima do Instituto Federal de Ciência e Tecnologia Bahiano (IFBaiano), gerenciei o projeto de desenvolvimento e operacionalização de uma plataforma de Registro de Ocorrências Policiais (ROP-E) em parceria com o IFBaiano e da Polícia Militar da Bahia (PM-BA). Liderando uma equipe de desenvolvedores (backend, frontend, mobile), entregamos no início de 2021 uma plataforma composta por uma interface Web (Python, Django), uma API (Django Rest API) e uma interface mobile (VueJS) operando em containers ( Docker) com bancos de dados replicados utilizando Postgres na Nuvem (DigitalOcean).
 
@@ -25,7 +25,7 @@ Atualmente gosto de resolver problemas em GNU/Linux, projetando, construindo e m
   - Linux (Debian, RHEL, Unix/like)
   - *BSD
   - OSX
-  - Windowns
+  - Windows
 
 - **Version Control System and Hosting**
   - git
@@ -60,6 +60,7 @@ Atualmente gosto de resolver problemas em GNU/Linux, projetando, construindo e m
 - **CI/CD**
   - Gitlab-ci
   - Github Actions
+  - Entraga continua com ArgoCD
 
 - **Secret Manager**
   - GSM (Google Secret Manager)
@@ -69,9 +70,9 @@ Atualmente gosto de resolver problemas em GNU/Linux, projetando, construindo e m
 - **Containers e Orquestração:**
   - K8s
   - GKE
-  - Micro k8s
   - EKS
-
+  - Microk8s
+    
 - **Monitoramento e Logging:**
   - Prometheus
   - Grafana
@@ -87,6 +88,17 @@ Atualmente gosto de resolver problemas em GNU/Linux, projetando, construindo e m
 ---
 
 ### Experiência Profissional
+
+#### Nasher.io - Cidade, Brasília
+**Engenheiro DevOps** (03/2024)
+
+- Projetou e implementou pipelines de CI/CD para acelerar o ciclo de desenvolvimento e garantir a entrega contínua de software.
+- Implementação de Cluster Performáticos para: runners gitlab-ci, argoCD, Crossplane 
+- Gerenciou e provisionou infraestrutura na nuvem utilizando ferramentas como Crossplane, Terraform, Ansible em nuvem pública da AWS e Hetzner.
+- Automatizou tarefas operacionais e de manutenção com pipelines usando Bash e Python trazendo significativamente ganho de tempo e facilidade nas operações.
+- Implementado sistemas de backup
+- Colaborou com equipes de desenvolvimento para melhorar a eficiência e a qualidade do código através de revisões de código automatizadas e testes de integração contínua.
+- Observabiidade com Prometheus, Grafana, Loki
 
 #### Nash.io - Cidade, Netherland
 **Engenheiro DevOps** (09/2021 - 02/2024)
@@ -107,7 +119,6 @@ Atualmente gosto de resolver problemas em GNU/Linux, projetando, construindo e m
 - Lecionei disciplinas relacionadas com Desenvolvimento para Internet no curso "Técnico em Informática para Internet"
 - Gerenciei o Desenvolvimento do Sistema de [Relatorios de Ocorrências Policiais Eletrônicas (ROP-e)](https://ifbaiano.edu.br/portal/blog/if-baiano-desenvolve-app-de-registro-de-ocorrencias-em-parceria-com-a-pm/) com alunos da instituição em parceria com a Policia Militar do Estado da Bahia.
 
-
 ---
 
 ### Educação
@@ -121,15 +132,6 @@ Centro Universitário Internacional (UNINTER) - Petrolina/PE, Brasil
 Ano de Conclusão: 2016
 
 ---
-
-<!-- 
-### Certificações
-
-- Certificado AWS Certified DevOps Engineer - Professional
-- Certificado Kubernetes Certified Administrator
-- Certificado Certified Jenkins Engineer
----
--->
 
 ### Idiomas
 
