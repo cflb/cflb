@@ -60,7 +60,7 @@ Atualmente gosto de resolver problemas em GNU/Linux, projetando, construindo e m
 - **CI/CD**
   - Gitlab-ci
   - Github Actions
-  - Entraga continua com ArgoCD
+  - ***GitOps:*** Entraga continua com ArgoCD
 
 - **Secret Manager**
   - GSM (Google Secret Manager)
